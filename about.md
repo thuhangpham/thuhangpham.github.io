@@ -8,12 +8,9 @@ summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Xin chào! Tôi là Hằng! Nick name thường gọi là Thốt Nốt! Cảm ơn các bạn đã đến thăm trang của tôi!
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
+You can find the source code for me at
 {{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+[thuhangpham](https://github.com/thuhangpham)
+
