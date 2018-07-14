@@ -1,7 +1,7 @@
 ---
 bg: "tn3.jpg"
 layout: page
-title: "TNCRZ"
+title: "About"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
 summary: "Thốt Nốt là ai?"
