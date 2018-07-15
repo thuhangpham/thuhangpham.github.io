@@ -1,12 +1,12 @@
 ---
 bg: "tn2.jpg"
 layout: post
-title:  "Thốt Nốt và COME BACK HOME 1"
+title:  "COME BACK HOME và mạ dặn"
 crawlertitle: "TNCRZ"
 summary: "come back home"
 date:   2018-07-15 11:44:00 +0700
-categories: posts
-tags: ['tan-man', 'tncrz', 'come-back-home']
+categories: stories
+tags: ['come-back-home']
 author: tncrz
 ---
 Thốt Nốt và những tản mạn `1`

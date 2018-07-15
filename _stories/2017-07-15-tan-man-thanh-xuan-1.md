@@ -5,8 +5,8 @@ title:  "Thốt Nốt và thanh xuân 1"
 crawlertitle: "TNCRZ"
 summary: "Tản mạn của Nốt"
 date:   2018-07-15 11:44:00 +0700
-categories: posts
-tags: ['tan-man', 'tncrz']
+categories: stories
+tags: ['thanh-xuan']
 author: tncrz
 ---
 Thốt Nốt và những thanh xuân `1`
