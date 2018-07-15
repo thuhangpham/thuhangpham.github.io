@@ -8,7 +8,7 @@ summary: "Thốt Nốt là ai?"
 active: about
 ---
 
-#tncrz
+## tncrz
 Xin chào! Tôi là Hằng! Nick name thường gọi là Thốt Nốt! Cảm ơn các bạn đã đến thăm trang của tôi!
 
 Tôi là một fresher chuyên về java, javascript.
