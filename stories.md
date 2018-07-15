@@ -1,7 +1,7 @@
 ---
 bg: "tn4.jpg"
 layout: page
-permalink: /story/
+permalink: /stories/
 title: "tncrz's stories"
 crawlertitle: "All stories"
 summary: "Stories"
