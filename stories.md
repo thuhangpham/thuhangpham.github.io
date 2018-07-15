@@ -10,7 +10,7 @@ active: story
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
-  {% assign posts = tag | last %}
+  {% assign stories = tag | last %}
 
   <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
 
