@@ -1,7 +1,7 @@
 ---
 bg: "tn2.jpg"
 layout: post
-title:  "Thốt Nốt và tản mạn 1"
+title:  "Thốt Nốt và tình yêu 1"
 crawlertitle: "TNCRZ"
 summary: "Tản mạn của Nốt"
 date:   2018-07-15 11:44:00 +0700
@@ -9,47 +9,7 @@ categories: posts
 tags: ['tan-man', 'tncrz']
 author: tncrz
 ---
-Thốt Nốt và những tản mạn `1`
-
-## Mạ dặn 
-`18/09/04 02:48`
-
-<pre>
-Huế đổi mùa rồi
-Ngày mưa, ngày nắng
-Thất thường lắm con ơi.
-Hai ngày con chưa gọi về,
-Học nhiều lắm hả con?
-
-Ngày ni nhà mền ăn chay
-Ăn chi mạ gửi vô cho.
-
-Ngày nghỉ có đi mô khôn?
-Sài Gòn phức tạp
-Đừng đi chơi nhiều.
-Con gái sống ở xa nhà
-Cẩn thận giữ mình
-Giữ của nghe con.
-
-Hết tiền thì nhớ gọi về,
-Im luôn, tiền mô mà ăn.
-Có tiền nộp học phí chưa?
-Chưa thì gọi về, tau gửi lên cho.
-
-Thức khuya vừa thôi con.
-</pre>
-
-## Đột nhiên 
-`18/06/03 02:57`
-
-<pre>
-Thanh xuân thì ngắn mà những câu chuyện viết về nó rất dài. 
-Tình cảm không đo bằng thời gian mà bằng ký ức. 
-Ký ức trong quá khứ càng nhiều bạn lại hồi tưởng
-tính lại nghiệm sai - những lỗi lầm và ngu ngơ.
-Thanh xuân của tôi còn 20 năm nữa, 
-nên tôi sẽ vét cạn từng nghiệm dù đúng dù sai.
-</pre>
+Thốt Nốt và những tản mạn tình yêu `1`
 
 ## ... có biết 
 `17/10/24 02:41`
