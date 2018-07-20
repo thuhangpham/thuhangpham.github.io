@@ -1,7 +1,7 @@
 ---
 bg: "DSC02899.jpg"
 layout: post
-title:  "Thốt Nốt và vu vơ mây trời"
+title:  "Tâm sự chuyện học ở trường"
 crawlertitle: "TNCRZ"
 summary: "Vu vơ vủa Nốt"
 date:   2018-07-21 12:57:00 +0700
@@ -9,7 +9,7 @@ categories: stories
 tags: ['vu-vo']
 author: tncrz
 ---
-Tâm sự chuyện học ở trường
+Bắt đầu từ đâu đây?
 
 ## Tâm sự nhẹ đêm nay
 Bắt đầu từ đâu đây?
