@@ -19,6 +19,19 @@ sitemap:
   </url>
   {% endfor %}
   
+    {% for post in site.stories %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+      <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+    {% else %}
+      <lastmod>{{ post.lastmod | date: "%Y-%m-%d" }}</lastmod>
+    {% endif %}
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+
   {% for page in site.pages %}
     {% if page.sitemap != null and page.sitemap != empty %}
     <url>
@@ -28,5 +41,7 @@ sitemap:
     </url>
     {% endif %}
   {% endfor %}
+ 
+
 
 </urlset>
