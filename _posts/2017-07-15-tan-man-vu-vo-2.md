@@ -1,5 +1,5 @@
 ---
-bg: "DSC02899.jpg"
+bg: "DSC02899.JPG"
 layout: post
 title:  "Tâm sự chuyện học ở trường"
 crawlertitle: "TNCRZ"
