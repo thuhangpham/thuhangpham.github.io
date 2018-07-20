@@ -9,7 +9,7 @@ categories: stories
 tags: ['vu-vo']
 author: tncrz
 ---
-Vu vơ mây trời
+Tâm sự chuyện học ở trường
 
 ## Tâm sự nhẹ đêm nay
 Bắt đầu từ đâu đây?
