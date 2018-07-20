@@ -12,6 +12,7 @@ author: tncrz
 Bắt đầu từ đâu đây?
 
 ## Tâm sự nhẹ đêm nay
+<pre>
 Bắt đầu từ đâu đây?
 Có lẽ là từ những ngày khởi động làm đồ án tốt nghiệp.
 Sau những lần làm tiều đồ án cuối môn học mỗi kỳ, t biết rằng bản thân không bao giờ làm trước mà luôn "nước đến chân mới nhảy".
@@ -25,11 +26,10 @@ Quá trình tự hào diễn ra đến hết kỳ 1.
 *Năm thứ hai đại học. T luôn tự nhủ phỉa cố gắng học chuyên ngành cho tốt "không gì là không làm được" - trở thành câu châm ngôn đi theo t suốt mấy năm còn lại trên giảng đường đại học.
 Nên, Đến bây giờ. T luôn bị gánh nặng là "không làm được là vô dụng", mỗi lần như thế là cảm giác bất an về mọi thứ, về nghề nghiệp về cuộc sống xung quanh, vân vân vân.
 Tự trấn an mình là một điều tốt, những "tự sướng", "tự kiêu", "tự ái" quá nhiều sẽ bị trầm cảm khi không làm được như người khác, sẽ "tự kiêu" - cho rằng bản thân mình giỏi, "tự ái" - tự giải quyết mọi việc mà không hỏi, nhờ vả người khác (tất cả mọi thứ), sợ người khác biết rằng mình DỐT.
-<center>ƯU ĐIỂM thì đi kèm với NHƯỢC ĐIỂM.</center>
+ƯU ĐIỂM thì đi kèm với NHƯỢC ĐIỂM.
 Hôm nay ngồi viết những dòng này.
 T biết rằng, t ích kỷ.
 Xin lỗi tất cả những người bạn
-<pre>
 Với vẻ lạnh lùng, ít nói.
 Khó chịu với "đồng đội", t đã nói những lời "xúc phạm", "dạy bảo" khi t chưa là gì cả.
 </pre>
