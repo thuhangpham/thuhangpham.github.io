@@ -45,7 +45,7 @@ Xin lỗi tất cả những người bạn
 Với vẻ lạnh lùng, ít nói.
 
 Khó chịu với "đồng đội", t đã nói những lời "xúc phạm", "dạy bảo" khi t chưa là gì cả.
-</pre>
+
 #tncrz 01:21 GMT +07
 
 
