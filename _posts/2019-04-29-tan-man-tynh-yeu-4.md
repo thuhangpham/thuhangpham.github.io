@@ -13,7 +13,7 @@ Nắng thì sao?
 
 ## Nắng thì đã sao?
 `19/04/29 14:03`
-
+<pre>
 "Khi đôi môi em còn đỏ mọng
 Em muốn nói em yêu anh"
 Khi đôi môi em phai màu,
@@ -24,3 +24,4 @@ Có phải
 Anh cũng vội vã rời xa em?
 Hôm qua trời đã mưa!
 #tncrz
+</pre>
