@@ -11,7 +11,7 @@ active: about
 ## tncrz
 Xin chào! Tôi là Hằng! Nick name thường gọi là Thốt Nốt! Cảm ơn các bạn đã đến thăm trang của tôi!
 
-Tôi là một fresher chuyên về java, javascript.
+Tôi là ca sĩ Dubai.
 
 Tôi thích nghệ thuật nhưng không có năng khiếu về nghệ thuật.
 
