@@ -36,3 +36,14 @@ Tôi chẳng tin tưởng cái gọi là tình yêu nữa.
 Tình yêu nó mong manh lắm e ah, lỡ mới vào thì hãy bước ra đi e.
 Mỗi người đều có tình cảm riêng, sự chân tình và cả tình yêu thật.
 Đâu phải ai cũng giống nhau phải ko e.
+
+ ## Giấu
+`17/11/11 16:11`
+
+<pre>
+Anh giấu mùa thu ấm áp
+Sang mùa đông mưa lạnh.
+Để lá vàng héo úa,
+Rụng dày trên đường vắng.
+#tncrz
+</pre>
