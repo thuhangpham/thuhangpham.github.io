@@ -28,16 +28,16 @@ Dù là vậy nhưng người ta chẳng xứng đáng với những gì e phả
 Ngày ngày e lên tường người ta, để xem gì vậy? Xem tin tức hay thời sự?
 Có thời gian rảnh e hãy đọc báo đi nhé!
  
- ## Không được thì thôi
+## Không được thì thôi
 `15/07/19 20:51`
 
- Ngày xưa tôi cũng có ng yêu như mong ước, nhưng nhưng người ta rồi cũng có bờ vai khác để dựa vào.
+Ngày xưa tôi cũng có ng yêu như mong ước, nhưng nhưng người ta rồi cũng có bờ vai khác để dựa vào.
 Tôi chẳng tin tưởng cái gọi là tình yêu nữa.
 Tình yêu nó mong manh lắm e ah, lỡ mới vào thì hãy bước ra đi e.
 Mỗi người đều có tình cảm riêng, sự chân tình và cả tình yêu thật.
 Đâu phải ai cũng giống nhau phải ko e.
 
- ## Giấu
+## Giấu
 `17/11/11 16:11`
 
 <pre>
