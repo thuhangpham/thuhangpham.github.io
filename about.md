@@ -16,6 +16,7 @@ Tôi là ca sĩ Dubai.
 Tôi thích nghệ thuật nhưng không có năng khiếu về nghệ thuật.
 
 You can find the source code for me at
-{{site.github_username}} /
-[thuhangpham](https://github.com/thuhangpham)
+<!-- {{site.github_username}} / -->
+{{onghut fam}} /
+[fullsteck](http://fullsteck.blogspot.com)
 
